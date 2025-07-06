@@ -32,41 +32,44 @@ I’m Advika Sawant from India.<br><br>
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
-<h4 align="left">🧠 AIML & Data Science</h4>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
+
+  <!-- AIML & Data Science -->
+  <b>🧠 AIML & Data Science:</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 40px;" alt="Python" title="Python" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="height: 40px;" alt="PyTorch" title="PyTorch" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="height: 40px;" alt="TensorFlow" title="TensorFlow" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" style="height: 40px;" alt="OpenCV" title="OpenCV" />
+  <br><br>
+
+  <!-- Data Visualization -->
+  <b>📊 Data Visualization:</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="height: 40px;" alt="Matplotlib" title="Matplotlib" />
+  <img width="10" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Tableau_Logo.png/480px-Tableau_Logo.png" style="height: 40px;" alt="Tableau" title="Tableau" />
+  <img width="10" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Power_BI_Logo.svg/1024px-Power_BI_Logo.svg.png" style="height: 40px;" alt="Power BI" title="Power BI" />
+  <br><br>
+
+  <!-- Databases -->
+  <b>🗄️ Databases:</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height: 40px;" alt="MySQL" title="SQL" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="height: 40px;" alt="MongoDB" title="MongoDB" />
+  <br><br>
+
+  <!-- Languages -->
+  <b>💻 Languages:</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 40px;" alt="Python" title="Python" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 40px;" alt="Java" title="Java" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height: 40px;" alt="C" title="C" />
 </div>
 
-<h4 align="left">📊 Data Visualization</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="Matplotlib" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Tableau_Logo.png/480px-Tableau_Logo.png" height="40" alt="Tableau" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Power_BI_Logo.svg/1024px-Power_BI_Logo.svg.png" height="40" alt="Power BI" />
-</div>
-
-<h4 align="left">🗄️ Databases</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-</div>
-
-<h4 align="left">💻 Languages</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-</div>
 
 
 ###
