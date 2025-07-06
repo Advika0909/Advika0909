@@ -2,16 +2,6 @@
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpvc3YycGE0azhsZm4ydDZudTEyZGJ4aTUyOWltejZyY3E0eXhvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/advika-sawant-3354b0300/" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="mailto:advika90.sawant@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-</div>
 
 ###
 
@@ -23,7 +13,7 @@
 
 <p align="left">
 I’m Advika Sawant from India.<br><br>
-- 🔭 Currently working as an AI Engineer Intern at Career Naksha<br>
+- 🔭 a<br>
 - 🌱 Currently learning Deep Learning, LLM Prompt Engineering, and Advanced Python<br>
 - ⚡ Fun fact: I love structuring data like I structure my day!
 </p>
@@ -71,6 +61,17 @@ I’m Advika Sawant from India.<br><br>
 </div>
 
 
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/advika-sawant-3354b0300/" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:advika90.sawant@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+</div>
 
 ###
 
