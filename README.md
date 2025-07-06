@@ -1,14 +1,16 @@
+
+
+<h1 align="center">Hi I'm Advika 👋</h1>
+
 <div align="center">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpvc3YycGE0azhsZm4ydDZudTEyZGJ4aTUyOWltejZyY3E0eXhvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" />
 </div>
-
-<h1 align="center">Hey there 👋</h1>
 
 ---
 
 ## 👩‍💻 About Me
 
-I’m Advika Sawant, a final-year Computer Engineering student at Fr. C. Rodrigues Institute of Technology, India, with a keen interest in Data Analytics, Data Science, Machine Learning, and Generative AI.
+I’m Advika Sawant, a final-year Computer Engineering student at Fr. C. Rodrigues Institute of Technology, with a keen interest in Data Analytics, Data Science, Machine Learning, and Generative AI.
 
 - 🔭 Currently working on building real-world ML projects and exploring Agentic AI  
 - 📊 Built various projects applying data analytics to extract clear, actionable insights  
