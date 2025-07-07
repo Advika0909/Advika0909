@@ -3,7 +3,7 @@
 <h1 align="center">Hi I'm Advika 👋</h1>
 
 <div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpvc3YycGE0azhsZm4ydDZudTEyZGJ4aTUyOWltejZyY3E0eXhvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" />
+  <img height="150" src="https://cdn.dribbble.com/userupload/32653920/file/original-3ada0449e0b27d3d295c63e7775bda43.gif" />
 </div>
 
 ---
