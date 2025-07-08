@@ -2,6 +2,10 @@
 
 <h1 align="center">Hi I'm Advika 👋</h1>
 
+<p align="center">
+  <em>Data Analyst and  ML Enthusiast | Turning Data into Impactful Insights</em>
+</p>
+
 <div align="center">
   <img height="150" src="https://cdn.dribbble.com/userupload/32653920/file/original-3ada0449e0b27d3d295c63e7775bda43.gif" />
 </div>
