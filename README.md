@@ -6,28 +6,15 @@
   <em>Data Analyst and  ML Enthusiast | Turning Data into Impactful Insights</em>
 </p>
 
-<div align="center">
+## 📬 Contact Me
 
-<table>
-<tr>
-
-<!-- LEFT: Contact me with LinkedIn -->
-<td width="50%">
-   <h1>📬 Contact Me</h1>
-
-
-
-<a href="https://www.linkedin.com/in/advika-sawant-3354b0300/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="120">
-</a>
-
-</td>
-<td align="right" width="50%" style="border:none;">
-<img src="https://entrefine.co.id/wp-content/uploads/2024/09/Learning-Data-Analytics.gif" alt="Data analyst illustration" width="100%">
-</td>
-</tr>
-</table>
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/advika-sawant-3354b0300/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:advika90.sawant@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail logo" />
+  </a>
 </div>
 
 
