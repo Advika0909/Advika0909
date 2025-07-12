@@ -17,25 +17,30 @@
 alt="Advika Sawant" align="right" width="300" style="margin-left: 20px; margin-bottom: 10px; border-radius: 50%;" />
 
 
- ### I’m Advika Sawant, a final-year Computer Engineering student at Fr. C. Rodrigues Institute of Technology, with a keen interest in Data Analytics, Data Science, Machine Learning, and Generative AI.
+ I’m Advika Sawant, a final-year Computer Engineering student at Fr. C. Rodrigues Institute of Technology, with a keen interest in Data Analytics, Data Science, Machine Learning, and Generative AI.
 
-- #### 🔭 Currently working on building real-world ML projects and exploring Agentic AI  
-- #### 📊 Built various projects applying data analytics to extract clear, actionable insights  
-- #### 🌱 Always learning and experimenting with new tech to solve real-world problems.
+- 🔭 Currently working on building real-world ML projects and exploring Agentic AI  
+- 📊 Built various projects applying data analytics to extract clear, actionable insights  
+- 🌱 Always learning and experimenting with new tech to solve real-world problems.
+ <br>
+ 
+ ## 🔗 Connect with Me
 
-
----
-
-## 📬 Connect with Me
 
 <a href="https://www.linkedin.com/in/advika-sawant-3354b0300/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn logo" />
 </a>
+&nbsp&nbsp
 <a href="mailto:advika90.sawant@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail logo" />
 </a>
 
+
 ---
+
+
+
+
 
 ## 🛠 Languages and Tools
 
