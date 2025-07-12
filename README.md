@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img height="150" src="https://cdn.dribbble.com/userupload/32653920/file/original-3ada0449e0b27d3d295c63e7775bda43.gif" />
+  <img height="150" src="https://miro.medium.com/max/1600/1*-IrKt__RJ7RGVllQCqBTjw.gif" />
 </div>
 
 ---
