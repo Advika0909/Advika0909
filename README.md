@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-<img src="https://github.com/user-attachments/assets/d4faad7e-6dc0-41df-8168-0a0145ad1746" 
+<img src="https://media.tenor.com/IQ6Z-aPhr1wAAAAM/date-everywhere-data.gif" 
 alt="Advika Sawant" align="right" width="200" style="margin-left: 15px; margin-bottom: 10px; border-radius: 50%;" />
 
 I’m Advika Sawant, a final-year Computer Engineering student at Fr. C. Rodrigues Institute of Technology, with a keen interest in Data Analytics, Data Science, Machine Learning, and Generative AI.
