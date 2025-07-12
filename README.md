@@ -3,7 +3,7 @@
 <h1 align="center">Hi I'm Advika 👋</h1>
 
 <p align="center">
-  <em>Data Analyst and  ML Enthusiast | Turning Data into Impactful Insights</em>
+  <em>~Data Analyst and  ML Enthusiast | Turning Data into Impactful Insights</em>
 </p>
 
 
@@ -14,13 +14,15 @@
 ## 👩‍💻 About Me
 
 <img src="https://media.tenor.com/IQ6Z-aPhr1wAAAAM/date-everywhere-data.gif" 
-alt="Advika Sawant" align="right" width="200" style="margin-left: 15px; margin-bottom: 10px; border-radius: 50%;" />
+alt="Advika Sawant" align="right" width="300" style="margin-left: 20px; margin-bottom: 10px; border-radius: 50%;" />
 
-I’m Advika Sawant, a final-year Computer Engineering student at Fr. C. Rodrigues Institute of Technology, with a keen interest in Data Analytics, Data Science, Machine Learning, and Generative AI.
 
-- 🔭 Currently working on building real-world ML projects and exploring Agentic AI  
-- 📊 Built various projects applying data analytics to extract clear, actionable insights  
-- 🌱 Always learning and experimenting with new tech to solve real-world problems.
+ ### I’m Advika Sawant, a final-year Computer Engineering student at Fr. C. Rodrigues Institute of Technology, with a keen interest in Data Analytics, Data Science, Machine Learning, and Generative AI.
+
+- #### 🔭 Currently working on building real-world ML projects and exploring Agentic AI  
+- #### 📊 Built various projects applying data analytics to extract clear, actionable insights  
+- #### 🌱 Always learning and experimenting with new tech to solve real-world problems.
+
 
 ---
 
