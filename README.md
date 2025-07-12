@@ -10,21 +10,16 @@
 
 <table>
 <tr>
-<td align="left" width="50%" style="border:none;">
 
-✅ **Core Tech Stack**
+<!-- LEFT: Contact me with LinkedIn -->
+<td align="left" width="50%"  style="border:none; vertical-align: top;">
+   <h1>📬 Contact Me</h1>
 
-- 🚀 Python
-- 📊 SQL
-- 🤖 Machine Learning
-- 📈 Power BI
-- 🐍 Pandas, NumPy
-- 🧹 Data Cleaning & EDA
-- 📊 Tableau, Excel
 
-💡 Exploring:
-- Deep Learning
-- Data Engineering basics
+
+<a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="120">
+</a>
 
 </td>
 <td align="right" width="50%" style="border:none;">
