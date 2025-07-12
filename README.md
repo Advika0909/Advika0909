@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi I'm Advika 👋</h1>
+<h1 align="center">Hi I'm Advika 🙌</h1>
 
 <p align="center">
   <em>~Data Analyst and  ML Enthusiast | Turning Data into Impactful Insights</em>
@@ -14,7 +14,7 @@
 ## 👩‍💻 About Me
 
 <img src="https://media.tenor.com/IQ6Z-aPhr1wAAAAM/date-everywhere-data.gif" 
-alt="Advika Sawant" align="right" width="300" style="margin-left: 20px; margin-bottom: 10px; border-radius: 50%;" />
+alt="Advika Sawant" align="right" width="275" style="margin-left: 20px; margin-bottom: 10px; border-radius: 50%;" />
 
 
  I’m Advika Sawant, a final-year Computer Engineering student at Fr. C. Rodrigues Institute of Technology, with a keen interest in Data Analytics, Data Science, Machine Learning, and Generative AI.
@@ -57,6 +57,7 @@ alt="Advika Sawant" align="right" width="300" style="margin-left: 20px; margin-b
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white" alt="MATLAB"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+
 </p>
 
 ### 🗄️ Databases
@@ -76,21 +77,13 @@ alt="Advika Sawant" align="right" width="300" style="margin-left: 20px; margin-b
 
 ---
 
-## 📬 Contact Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/advika-sawant-3354b0300/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn logo" />
-  </a>
-  <a href="mailto:advika90.sawant@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail logo" />
-  </a>
-</div>
-
----
 
 ## 🔥 My Stats
 
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=advika-sawant&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=Advika0909&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Advika0909&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" height="150"/>
+</p>
