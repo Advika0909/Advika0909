@@ -14,7 +14,7 @@
 ## 👩‍💻 About Me
 
 <img src="https://media.tenor.com/IQ6Z-aPhr1wAAAAM/date-everywhere-data.gif" 
-alt="Advika Sawant" align="right" width="275" style="margin-left: 20px; margin-bottom: 10px; border-radius: 50%;" />
+alt="Advika Sawant" align="right" width="260" style="margin-left: 20px; margin-bottom: 10px; border-radius: 50%;" />
 
 
  I’m Advika Sawant, a final-year Computer Engineering student at Fr. C. Rodrigues Institute of Technology, with a keen interest in Data Analytics, Data Science, Machine Learning, and Generative AI.
@@ -81,9 +81,10 @@ alt="Advika Sawant" align="right" width="275" style="margin-left: 20px; margin-b
 ## 🔥 My Stats
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Advika0909&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Advika0909&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=Advika0909&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" style="display:inline-block; margin-right: 20px;" />
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Advika0909&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph" style="display:inline-block;" />
 </p>
+
+
