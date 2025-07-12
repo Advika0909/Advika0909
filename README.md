@@ -7,8 +7,35 @@
 </p>
 
 <div align="center">
-  <img height="150" src="https://miro.medium.com/max/1600/1*-IrKt__RJ7RGVllQCqBTjw.gif" />
+
+<table>
+<tr>
+<td align="left" width="50%" style="border:none;">
+
+✅ **Core Tech Stack**
+
+- 🚀 Python
+- 📊 SQL
+- 🤖 Machine Learning
+- 📈 Power BI
+- 🐍 Pandas, NumPy
+- 🧹 Data Cleaning & EDA
+- 📊 Tableau, Excel
+
+💡 Exploring:
+- Deep Learning
+- Data Engineering basics
+
+</td>
+<td align="right" width="50%" style="border:none;">
+<img src="https://entrefine.co.id/wp-content/uploads/2024/09/Learning-Data-Analytics.gif" alt="Data analyst illustration" width="100%">
+</td>
+</tr>
+</table>
+
 </div>
+
+
 
 ---
 
