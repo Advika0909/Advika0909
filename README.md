@@ -12,12 +12,12 @@
 <tr>
 
 <!-- LEFT: Contact me with LinkedIn -->
-<td align="left" width="50%"  style="border:none; vertical-align: top;">
+<td width="50%">
    <h1>📬 Contact Me</h1>
 
 
 
-<a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+<a href="https://www.linkedin.com/in/advika-sawant-3354b0300/" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="120">
 </a>
 
