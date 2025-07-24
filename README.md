@@ -82,8 +82,6 @@ alt="Advika Sawant" align="right" width="260" style="margin-left: 20px; margin-b
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Advika0909&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" style="display:inline-block; margin-right: 20px;" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Advika0909&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph" style="display:inline-block;" />
 </p>
 
